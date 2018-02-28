@@ -49,6 +49,9 @@
     <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.deep_purple-pink.min.css">
     <link rel="stylesheet" href="custom.css">
     <link rel="stylesheet" href="styles.css">
+
+    <!-- Polymer web component -->
+    <link rel="import" href="./polymer-pass-butter/polymer-pass-butter.html">
     <style>
     #view-source {
       position: fixed;
@@ -73,6 +76,7 @@
         </div>
         <div class="mdl-layout__tab-bar mdl-js-ripple-effect mdl-color--primary-dark">
           <a href="#idea" class="mdl-layout__tab is-active">Idea</a>
+          <a href="#polymer" class="mdl-layout__tab">Polymer</a>
           <a href="#features" class="mdl-layout__tab">Angular</a>
           <a href="#features" class="mdl-layout__tab">React</a>
           <a href="#features" class="mdl-layout__tab">Vue</a>
@@ -95,6 +99,15 @@
               </div>
             </div>
           </section>
+          <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
+            <div class="mdl-card mdl-cell mdl-cell--12-col">
+              <div class="mdl-card__supporting-text mdl-grid mdl-grid--no-spacing">
+                <h4 class="mdl-cell mdl-cell--12-col">Polymer</h4>
+                <div class="section__text mdl-cell mdl-cell--10-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
+                  <polymer-pass-butter></polymer-pass-butter>
+                </div>
+          </section>
+          
           <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
             <div class="mdl-card mdl-cell mdl-cell--12-col">
               <div class="mdl-card__supporting-text mdl-grid mdl-grid--no-spacing">
