@@ -11,12 +11,27 @@ import {
   selector: 'butter-passer',
   template: `
   <div class="butter-passer">
+    <div class="title">
+      <img class="logo" src="https://angular.io/assets/images/logos/angular/angular.svg"/>
+      <h3>This is an Angular Element</h3>
+      </div>
     <button class="command btn" (click)="passButter()">{{text}}</button>
     <img class="butter" #butter [style.margin-left]="ml + '%'" src="https://i.imgur.com/ErKFbbo.png"/>
   </div>`,
   styles: [`
+  *, h3, button {
+    font-family: "Roboto","Helvetica","Arial",sans-serif;
+  }
+  .logo {
+    width: 50px;
+  }
   .butter-passer{
     display: grid;
+    border: 1px solid #C50523;
+  }
+  .title {
+    display: flex;
+    align-items: center;
   }
   .command{
       width: 50%;
@@ -35,7 +50,7 @@ import {
     min-width: 64px;
     padding: 0 16px;
     display: inline-block;
-    font-family: "Roboto","Helvetica","Arial",sans-serif;
+    
     font-size: 14px;
     font-weight: 500;
     text-transform: uppercase;
