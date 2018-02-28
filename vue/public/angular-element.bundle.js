@@ -71,7 +71,7 @@
 
 var root_1 = __webpack_require__(3);
 var toSubscriber_1 = __webpack_require__(22);
-var observable_1 = __webpack_require__(15);
+var observable_1 = __webpack_require__(14);
 var pipe_1 = __webpack_require__(26);
 /**
  * A representation of any set of values over any amount of time. This is the most basic building block
@@ -487,7 +487,7 @@ exports.Observable = Observable;
 /* unused harmony export ɵALLOW_MULTIPLE_PLATFORMS */
 /* unused harmony export ɵAPP_ID_RANDOM_PROVIDER */
 /* unused harmony export ɵdevModeEqual */
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "_6", function() { return isListLikeIterable; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "_5", function() { return isListLikeIterable; });
 /* unused harmony export ɵChangeDetectorStatus */
 /* unused harmony export ɵisDefaultChangeDetectionStrategy */
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "X", function() { return Console; });
@@ -495,12 +495,12 @@ exports.Observable = Observable;
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "W", function() { return CodegenComponentFactoryResolver; });
 /* unused harmony export ɵReflectionCapabilities */
 /* unused harmony export ɵRenderDebugInfo */
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "_4", function() { return _global; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "_3", function() { return _global; });
 /* unused harmony export ɵlooseIdentical */
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "_15", function() { return stringify; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "_14", function() { return stringify; });
 /* unused harmony export ɵmakeDecorator */
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "_7", function() { return isObservable; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "_8", function() { return isPromise; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "_6", function() { return isObservable; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "_7", function() { return isPromise; });
 /* unused harmony export ɵclearOverrides */
 /* unused harmony export ɵoverrideComponentView */
 /* unused harmony export ɵoverrideProvider */
@@ -526,29 +526,29 @@ exports.Observable = Observable;
 /* unused harmony export ɵregisterModuleFactory */
 /* unused harmony export ɵEMPTY_ARRAY */
 /* unused harmony export ɵEMPTY_MAP */
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "Y", function() { return anchorDef; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "Z", function() { return createComponentFactory; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "_0", function() { return createNgModuleFactory; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "_1", function() { return createRendererType2; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "_2", function() { return directiveDef; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "_3", function() { return elementDef; });
+/* unused harmony export ɵand */
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "Y", function() { return createComponentFactory; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "Z", function() { return createNgModuleFactory; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "_0", function() { return createRendererType2; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "_1", function() { return directiveDef; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "_2", function() { return elementDef; });
 /* unused harmony export ɵelementEventFullName */
 /* unused harmony export ɵgetComponentViewDefinitionFactory */
 /* unused harmony export ɵinlineInterpolate */
 /* unused harmony export ɵinterpolate */
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "_9", function() { return moduleDef; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "_10", function() { return moduleProvideDef; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "_8", function() { return moduleDef; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "_9", function() { return moduleProvideDef; });
 /* unused harmony export ɵncd */
 /* unused harmony export ɵnov */
 /* unused harmony export ɵpid */
 /* unused harmony export ɵprd */
 /* unused harmony export ɵpad */
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "_13", function() { return pureObjectDef; });
+/* unused harmony export ɵpod */
 /* unused harmony export ɵppd */
-/* unused harmony export ɵqud */
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "_16", function() { return textDef; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "_13", function() { return queryDef; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "_15", function() { return textDef; });
 /* unused harmony export ɵunv */
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "_17", function() { return viewDef; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "_16", function() { return viewDef; });
 /* unused harmony export AUTO_STYLE */
 /* unused harmony export trigger */
 /* unused harmony export animate */
@@ -566,10 +566,10 @@ exports.Observable = Observable;
 /* unused harmony export ɵbi */
 /* unused harmony export ɵbl */
 /* unused harmony export ɵbe */
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "_11", function() { return _iterableDiffersFactory; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "_12", function() { return _keyValueDiffersFactory; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "_14", function() { return _localeFactory; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "_5", function() { return _appIdRandomProviderFactory; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "_10", function() { return _iterableDiffersFactory; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "_11", function() { return _keyValueDiffersFactory; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "_12", function() { return _localeFactory; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "_4", function() { return _appIdRandomProviderFactory; });
 /* unused harmony export ɵj */
 /* unused harmony export ɵk */
 /* unused harmony export ɵl */
@@ -594,13 +594,16 @@ exports.Observable = Observable;
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_rxjs_observable_merge___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_rxjs_observable_merge__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_operator_share__ = __webpack_require__(41);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_operator_share___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_rxjs_operator_share__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_Subject__ = __webpack_require__(10);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_Subject__ = __webpack_require__(8);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_Subject___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3_rxjs_Subject__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_rxjs_Subscription__ = __webpack_require__(4);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_rxjs_Subscription___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_4_rxjs_Subscription__);
 /**
- * @license Angular v5.2.3
+ * @license Angular v5.2.6
  * (c) 2010-2018 Google, Inc. https://angular.io/
  * License: MIT
  */
+
 
 
 
@@ -1280,7 +1283,7 @@ class Version {
 /**
  * \@stable
  */
-const VERSION = new Version('5.2.3');
+const VERSION = new Version('5.2.6');
 
 /**
  * @fileoverview added by tsickle
@@ -1394,6 +1397,7 @@ const __self = typeof self !== 'undefined' && typeof WorkerGlobalScope !== 'unde
     self instanceof WorkerGlobalScope && self;
 const __global = typeof global !== 'undefined' && global;
 const _global = __window || __global || __self;
+const promise = Promise.resolve(0);
 let _symbolIterator = null;
 /**
  * @return {?}
@@ -1423,7 +1427,13 @@ function getSymbolIterator() {
  * @return {?}
  */
 function scheduleMicroTask(fn) {
-    Zone.current.scheduleMicroTask('scheduleMicrotask', fn);
+    if (typeof Zone === 'undefined') {
+        // use promise to schedule microTask instead of use Zone
+        promise.then(() => { fn && fn.apply(null, null); });
+    }
+    else {
+        Zone.current.scheduleMicroTask('scheduleMicrotask', fn);
+    }
 }
 /**
  * @param {?} a
@@ -2439,9 +2449,11 @@ function isType(v) {
  * found in the LICENSE file at https://angular.io/license
  */
 /**
- * Attention: This regex has to hold even if the code is minified!
+ * Attention: These regex has to hold even if the code is minified!
  */
 const DELEGATE_CTOR = /^function\s+\S+\(\)\s*{[\s\S]+\.apply\(this,\s*arguments\)/;
+const INHERITED_CLASS = /^class\s+[A-Za-z\d$_]*\s*extends\s+[A-Za-z\d$_]+\s*{/;
+const INHERITED_CLASS_WITH_CTOR = /^class\s+[A-Za-z\d$_]*\s*extends\s+[A-Za-z\d$_]+\s*{[\s\S]*constructor\s*\(/;
 class ReflectionCapabilities {
     /**
      * @param {?=} reflect
@@ -2496,6 +2508,7 @@ class ReflectionCapabilities {
      * @return {?}
      */
     _ownParameters(type, parentCtor) {
+        const /** @type {?} */ typeStr = type.toString();
         // If we have no decorators, we only have function.length as metadata.
         // In that case, to detect whether a child class declared an own constructor or not,
         // we need to look inside of that constructor to check whether it is
@@ -2503,7 +2516,8 @@ class ReflectionCapabilities {
         // This also helps to work around for https://github.com/Microsoft/TypeScript/issues/12439
         // that sets 'design:paramtypes' to []
         // if a class inherits from another class but has no ctor declared itself.
-        if (DELEGATE_CTOR.exec(type.toString())) {
+        if (DELEGATE_CTOR.exec(typeStr) ||
+            (INHERITED_CLASS.exec(typeStr) && !INHERITED_CLASS_WITH_CTOR.exec(typeStr))) {
             return null;
         }
         // Prefer the direct API.
@@ -2735,7 +2749,7 @@ function convertTsickleDecoratorIntoMetadata(decoratorInvocations) {
  * @return {?}
  */
 function getParentCtor(ctor) {
-    const /** @type {?} */ parentProto = Object.getPrototypeOf(ctor.prototype);
+    const /** @type {?} */ parentProto = ctor.prototype ? Object.getPrototypeOf(ctor.prototype) : null;
     const /** @type {?} */ parentCtor = parentProto ? parentProto.constructor : null;
     // Note: We always use `Object` as the null value
     // to simplify checking later on.
@@ -4301,7 +4315,11 @@ class EventEmitter extends __WEBPACK_IMPORTED_MODULE_3_rxjs_Subject__["Subject"]
                     this.__isAsync ? () => { setTimeout(() => complete()); } : () => { complete(); };
             }
         }
-        return super.subscribe(schedulerFn, errorFn, completeFn);
+        const /** @type {?} */ sink = super.subscribe(schedulerFn, errorFn, completeFn);
+        if (generatorOrNext instanceof __WEBPACK_IMPORTED_MODULE_4_rxjs_Subscription__["Subscription"]) {
+            generatorOrNext.add(sink);
+        }
+        return sink;
     }
 }
 
@@ -5757,6 +5775,7 @@ class QueryList {
         this.dirty = true;
         this._results = [];
         this.changes = new EventEmitter();
+        this.length = 0;
     }
     /**
      * See
@@ -5920,7 +5939,7 @@ class SystemJsNgModuleLoader {
         if (exportName === undefined) {
             exportName = 'default';
         }
-        return __webpack_require__(18)(module)
+        return __webpack_require__(17)(module)
             .then((module) => module[exportName])
             .then((type) => checkNotEmpty(type, module, exportName))
             .then((type) => this._compiler.compileModuleAsync(type));
@@ -5936,7 +5955,7 @@ class SystemJsNgModuleLoader {
             exportName = 'default';
             factoryClassSuffix = '';
         }
-        return __webpack_require__(18)(this._config.factoryPathPrefix + module + this._config.factoryPathSuffix)
+        return __webpack_require__(17)(this._config.factoryPathPrefix + module + this._config.factoryPathSuffix)
             .then((module) => module[exportName + factoryClassSuffix])
             .then((factory) => checkNotEmpty(factory, module, exportName));
     }
@@ -16415,7 +16434,7 @@ function invertObject(obj) {
  * The `\@childAnimation` trigger will not animate because `\@.disabled` prevents it from happening
  * (when true).
  *
- * Note that `\@.disbled` will only disable all animations (this means any animations running on
+ * Note that `\@.disabled` will only disable all animations (this means any animations running on
  * the same element will also be disabled).
  *
  * ### Disabling Animations Application-wide
@@ -17439,7 +17458,7 @@ function transition$$1(stateChangeExpr, steps) {
 
 //# sourceMappingURL=core.js.map
 
-/* WEBPACK VAR INJECTION */}.call(__webpack_exports__, __webpack_require__(6)))
+/* WEBPACK VAR INJECTION */}.call(__webpack_exports__, __webpack_require__(5)))
 
 /***/ }),
 /* 2 */
@@ -17452,10 +17471,10 @@ var __extends = (this && this.__extends) || function (d, b) {
     function __() { this.constructor = d; }
     d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
 };
-var isFunction_1 = __webpack_require__(11);
+var isFunction_1 = __webpack_require__(10);
 var Subscription_1 = __webpack_require__(4);
-var Observer_1 = __webpack_require__(14);
-var rxSubscriber_1 = __webpack_require__(9);
+var Observer_1 = __webpack_require__(13);
+var rxSubscriber_1 = __webpack_require__(7);
 /**
  * Implements the {@link Observer} interface and extends the
  * {@link Subscription} class. While the {@link Observer} is the public API for
@@ -17736,7 +17755,7 @@ exports.root = _root;
     }
 })();
 //# sourceMappingURL=root.js.map
-/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(6)))
+/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(5)))
 
 /***/ }),
 /* 4 */
@@ -17745,10 +17764,10 @@ exports.root = _root;
 "use strict";
 
 var isArray_1 = __webpack_require__(23);
-var isObject_1 = __webpack_require__(12);
-var isFunction_1 = __webpack_require__(11);
+var isObject_1 = __webpack_require__(11);
+var isFunction_1 = __webpack_require__(10);
 var tryCatch_1 = __webpack_require__(24);
-var errorObject_1 = __webpack_require__(13);
+var errorObject_1 = __webpack_require__(12);
 var UnsubscriptionError_1 = __webpack_require__(25);
 /**
  * Represents a disposable resource, such as the execution of an Observable. A
@@ -17939,56 +17958,6 @@ function flattenUnsubscriptionErrors(errors) {
 
 /***/ }),
 /* 5 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(1);
-
-class RatingService {
-    updateRatings(rating) {
-        return Array.from({ length: 5 }).map((state, index) => index < rating + 1);
-    }
-}
-/* harmony export (immutable) */ __webpack_exports__["c"] = RatingService;
-
-class RatingComponent {
-    constructor() {
-        this.ratingClicked = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* EventEmitter */]();
-    }
-}
-/* harmony export (immutable) */ __webpack_exports__["b"] = RatingComponent;
-
-class MyRatingComponent {
-    constructor(ratingService) {
-        this.ratingService = ratingService;
-        this.theRating = 1;
-        this.ratingChange = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* EventEmitter */]();
-    }
-    get rating() {
-        console.log('-- read rating --');
-        return this.theRating;
-    }
-    set rating(newRating) {
-        console.log('-- set rating --');
-        this.theRating = parseInt(newRating, 10);
-        this.ratingChange.emit(newRating);
-    }
-    ngOnChanges() {
-        console.log('-- ngOnChanges --');
-        this.ratingStates = this.ratingService.updateRatings(this.theRating);
-    }
-    handleRatingClicked(newRating) {
-        console.log('-- CLICK HANDLER --', newRating);
-        this.rating = newRating;
-        this.ratingStates = this.ratingService.updateRatings(this.theRating);
-    }
-}
-/* harmony export (immutable) */ __webpack_exports__["a"] = MyRatingComponent;
-
-//# sourceMappingURL=my-rating.component.js.map
-
-/***/ }),
-/* 6 */
 /***/ (function(module, exports) {
 
 var g;
@@ -18015,7 +17984,7 @@ module.exports = g;
 
 
 /***/ }),
-/* 7 */
+/* 6 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -18067,10 +18036,10 @@ module.exports = g;
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "s", function() { return _createNgProbe; });
 /* unused harmony export ɵd */
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "r", function() { return DomSanitizerImpl; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_common__ = __webpack_require__(8);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_common__ = __webpack_require__(9);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_core__ = __webpack_require__(1);
 /**
- * @license Angular v5.2.3
+ * @license Angular v5.2.6
  * (c) 2010-2018 Google, Inc. https://angular.io/
  * License: MIT
  */
@@ -18285,8 +18254,8 @@ const _chromeNumKeyPadMap = {
     '\x90': 'NumLock'
 };
 let nodeContains;
-if (__WEBPACK_IMPORTED_MODULE_1__angular_core__["_4" /* ɵglobal */]['Node']) {
-    nodeContains = __WEBPACK_IMPORTED_MODULE_1__angular_core__["_4" /* ɵglobal */]['Node'].prototype.contains || function (node) {
+if (__WEBPACK_IMPORTED_MODULE_1__angular_core__["_3" /* ɵglobal */]['Node']) {
+    nodeContains = __WEBPACK_IMPORTED_MODULE_1__angular_core__["_3" /* ɵglobal */]['Node'].prototype.contains || function (node) {
         return !!(this.compareDocumentPosition(node) & 16);
     };
 }
@@ -19085,7 +19054,7 @@ class BrowserDomAdapter extends GenericBrowserDomAdapter {
      * @param {?} name
      * @return {?}
      */
-    getCookie(name) { return Object(__WEBPACK_IMPORTED_MODULE_0__angular_common__["j" /* ɵparseCookieValue */])(document.cookie, name); }
+    getCookie(name) { return Object(__WEBPACK_IMPORTED_MODULE_0__angular_common__["h" /* ɵparseCookieValue */])(document.cookie, name); }
     /**
      * @param {?} name
      * @param {?} value
@@ -19180,7 +19149,7 @@ function supportsState() {
  * This class should not be used directly by an application developer. Instead, use
  * {\@link Location}.
  */
-class BrowserPlatformLocation extends __WEBPACK_IMPORTED_MODULE_0__angular_common__["g" /* PlatformLocation */] {
+class BrowserPlatformLocation extends __WEBPACK_IMPORTED_MODULE_0__angular_common__["e" /* PlatformLocation */] {
     /**
      * @param {?} _doc
      */
@@ -19493,17 +19462,17 @@ class BrowserGetTestability {
      * @return {?}
      */
     addToWindow(registry) {
-        __WEBPACK_IMPORTED_MODULE_1__angular_core__["_4" /* ɵglobal */]['getAngularTestability'] = (elem, findInAncestors = true) => {
+        __WEBPACK_IMPORTED_MODULE_1__angular_core__["_3" /* ɵglobal */]['getAngularTestability'] = (elem, findInAncestors = true) => {
             const /** @type {?} */ testability = registry.findTestabilityInTree(elem, findInAncestors);
             if (testability == null) {
                 throw new Error('Could not find testability for element.');
             }
             return testability;
         };
-        __WEBPACK_IMPORTED_MODULE_1__angular_core__["_4" /* ɵglobal */]['getAllAngularTestabilities'] = () => registry.getAllTestabilities();
-        __WEBPACK_IMPORTED_MODULE_1__angular_core__["_4" /* ɵglobal */]['getAllAngularRootElements'] = () => registry.getAllRootElements();
+        __WEBPACK_IMPORTED_MODULE_1__angular_core__["_3" /* ɵglobal */]['getAllAngularTestabilities'] = () => registry.getAllTestabilities();
+        __WEBPACK_IMPORTED_MODULE_1__angular_core__["_3" /* ɵglobal */]['getAllAngularRootElements'] = () => registry.getAllRootElements();
         const /** @type {?} */ whenAllStable = (callback /** TODO #9100 */) => {
-            const /** @type {?} */ testabilities = __WEBPACK_IMPORTED_MODULE_1__angular_core__["_4" /* ɵglobal */]['getAllAngularTestabilities']();
+            const /** @type {?} */ testabilities = __WEBPACK_IMPORTED_MODULE_1__angular_core__["_3" /* ɵglobal */]['getAllAngularTestabilities']();
             let /** @type {?} */ count = testabilities.length;
             let /** @type {?} */ didWork = false;
             const /** @type {?} */ decrement = function (didWork_ /** TODO #9100 */) {
@@ -19517,10 +19486,10 @@ class BrowserGetTestability {
                 testability.whenStable(decrement);
             });
         };
-        if (!__WEBPACK_IMPORTED_MODULE_1__angular_core__["_4" /* ɵglobal */]['frameworkStabilizers']) {
-            __WEBPACK_IMPORTED_MODULE_1__angular_core__["_4" /* ɵglobal */]['frameworkStabilizers'] = [];
+        if (!__WEBPACK_IMPORTED_MODULE_1__angular_core__["_3" /* ɵglobal */]['frameworkStabilizers']) {
+            __WEBPACK_IMPORTED_MODULE_1__angular_core__["_3" /* ɵglobal */]['frameworkStabilizers'] = [];
         }
-        __WEBPACK_IMPORTED_MODULE_1__angular_core__["_4" /* ɵglobal */]['frameworkStabilizers'].push(whenAllStable);
+        __WEBPACK_IMPORTED_MODULE_1__angular_core__["_3" /* ɵglobal */]['frameworkStabilizers'].push(whenAllStable);
     }
     /**
      * @param {?} registry
@@ -19629,7 +19598,7 @@ function exportNgVar(name, value) {
         // - closure declares globals itself for minified names, which sometimes clobber our `ng` global
         // - we can't declare a closure extern as the namespace `ng` is already used within Google
         //   for typings for angularJS (via `goog.provide('ng....')`).
-        const /** @type {?} */ ng = __WEBPACK_IMPORTED_MODULE_1__angular_core__["_4" /* ɵglobal */]['ng'] = (/** @type {?} */ (__WEBPACK_IMPORTED_MODULE_1__angular_core__["_4" /* ɵglobal */]['ng'])) || {};
+        const /** @type {?} */ ng = __WEBPACK_IMPORTED_MODULE_1__angular_core__["_3" /* ɵglobal */]['ng'] = (/** @type {?} */ (__WEBPACK_IMPORTED_MODULE_1__angular_core__["_3" /* ɵglobal */]['ng'])) || {};
         ng[name] = value;
     }
 }
@@ -20862,6 +20831,176 @@ KeyEventsPlugin.ctorParameters = () => [
  * found in the LICENSE file at https://angular.io/license
  */
 /**
+ * This helper class is used to get hold of an inert tree of DOM elements containing dirty HTML
+ * that needs sanitizing.
+ * Depending upon browser support we must use one of three strategies for doing this.
+ * Support: Safari 10.x -> XHR strategy
+ * Support: Firefox -> DomParser strategy
+ * Default: InertDocument strategy
+ */
+class InertBodyHelper {
+    /**
+     * @param {?} defaultDoc
+     * @param {?} DOM
+     */
+    constructor(defaultDoc, DOM) {
+        this.defaultDoc = defaultDoc;
+        this.DOM = DOM;
+        const /** @type {?} */ inertDocument = this.DOM.createHtmlDocument();
+        this.inertBodyElement = inertDocument.body;
+        if (this.inertBodyElement == null) {
+            // usually there should be only one body element in the document, but IE doesn't have any, so
+            // we need to create one.
+            const /** @type {?} */ inertHtml = this.DOM.createElement('html', inertDocument);
+            this.inertBodyElement = this.DOM.createElement('body', inertDocument);
+            this.DOM.appendChild(inertHtml, this.inertBodyElement);
+            this.DOM.appendChild(inertDocument, inertHtml);
+        }
+        this.DOM.setInnerHTML(this.inertBodyElement, '<svg><g onload="this.parentNode.remove()"></g></svg>');
+        if (this.inertBodyElement.querySelector && !this.inertBodyElement.querySelector('svg')) {
+            // We just hit the Safari 10.1 bug - which allows JS to run inside the SVG G element
+            // so use the XHR strategy.
+            this.getInertBodyElement = this.getInertBodyElement_XHR;
+            return;
+        }
+        this.DOM.setInnerHTML(this.inertBodyElement, '<svg><p><style><img src="</style><img src=x onerror=alert(1)//">');
+        if (this.inertBodyElement.querySelector && this.inertBodyElement.querySelector('svg img')) {
+            // We just hit the Firefox bug - which prevents the inner img JS from being sanitized
+            // so use the DOMParser strategy, if it is available.
+            // If the DOMParser is not available then we are not in Firefox (Server/WebWorker?) so we
+            // fall through to the default strategy below.
+            if (isDOMParserAvailable()) {
+                this.getInertBodyElement = this.getInertBodyElement_DOMParser;
+                return;
+            }
+        }
+        // None of the bugs were hit so it is safe for us to use the default InertDocument strategy
+        this.getInertBodyElement = this.getInertBodyElement_InertDocument;
+    }
+    /**
+     * Use XHR to create and fill an inert body element (on Safari 10.1)
+     * See
+     * https://github.com/cure53/DOMPurify/blob/a992d3a75031cb8bb032e5ea8399ba972bdf9a65/src/purify.js#L439-L449
+     * @param {?} html
+     * @return {?}
+     */
+    getInertBodyElement_XHR(html) {
+        // We add these extra elements to ensure that the rest of the content is parsed as expected
+        // e.g. leading whitespace is maintained and tags like `<meta>` do not get hoisted to the
+        // `<head>` tag.
+        html = '<body><remove></remove>' + html + '</body>';
+        try {
+            html = encodeURI(html);
+        }
+        catch (/** @type {?} */ e) {
+            return null;
+        }
+        const /** @type {?} */ xhr = new XMLHttpRequest();
+        xhr.responseType = 'document';
+        xhr.open('GET', 'data:text/html;charset=utf-8,' + html, false);
+        xhr.send(null);
+        const /** @type {?} */ body = xhr.response.body;
+        body.removeChild(/** @type {?} */ ((body.firstChild)));
+        return body;
+    }
+    /**
+     * Use DOMParser to create and fill an inert body element (on Firefox)
+     * See https://github.com/cure53/DOMPurify/releases/tag/0.6.7
+     *
+     * @param {?} html
+     * @return {?}
+     */
+    getInertBodyElement_DOMParser(html) {
+        // We add these extra elements to ensure that the rest of the content is parsed as expected
+        // e.g. leading whitespace is maintained and tags like `<meta>` do not get hoisted to the
+        // `<head>` tag.
+        html = '<body><remove></remove>' + html + '</body>';
+        try {
+            const /** @type {?} */ body = /** @type {?} */ (new (/** @type {?} */ (window))
+                .DOMParser()
+                .parseFromString(html, 'text/html')
+                .body);
+            body.removeChild(/** @type {?} */ ((body.firstChild)));
+            return body;
+        }
+        catch (/** @type {?} */ e) {
+            return null;
+        }
+    }
+    /**
+     * Use an HTML5 `template` element, if supported, or an inert body element created via
+     * `createHtmlDocument` to create and fill an inert DOM element.
+     * This is the default sane strategy to use if the browser does not require one of the specialised
+     * strategies above.
+     * @param {?} html
+     * @return {?}
+     */
+    getInertBodyElement_InertDocument(html) {
+        // Prefer using <template> element if supported.
+        const /** @type {?} */ templateEl = this.DOM.createElement('template');
+        if ('content' in templateEl) {
+            this.DOM.setInnerHTML(templateEl, html);
+            return templateEl;
+        }
+        this.DOM.setInnerHTML(this.inertBodyElement, html);
+        // Support: IE 9-11 only
+        // strip custom-namespaced attributes on IE<=11
+        if (this.defaultDoc.documentMode) {
+            this.stripCustomNsAttrs(this.inertBodyElement);
+        }
+        return this.inertBodyElement;
+    }
+    /**
+     * When IE9-11 comes across an unknown namespaced attribute e.g. 'xlink:foo' it adds 'xmlns:ns1'
+     * attribute to declare ns1 namespace and prefixes the attribute with 'ns1' (e.g.
+     * 'ns1:xlink:foo').
+     *
+     * This is undesirable since we don't want to allow any of these custom attributes. This method
+     * strips them all.
+     * @param {?} el
+     * @return {?}
+     */
+    stripCustomNsAttrs(el) {
+        this.DOM.attributeMap(el).forEach((_, attrName) => {
+            if (attrName === 'xmlns:ns1' || attrName.indexOf('ns1:') === 0) {
+                this.DOM.removeAttribute(el, attrName);
+            }
+        });
+        for (const /** @type {?} */ n of this.DOM.childNodesAsList(el)) {
+            if (this.DOM.isElementNode(n))
+                this.stripCustomNsAttrs(/** @type {?} */ (n));
+        }
+    }
+}
+/**
+ * We need to determine whether the DOMParser exists in the global context.
+ * The try-catch is because, on some browsers, trying to access this property
+ * on window can actually throw an error.
+ *
+ * @suppress {uselessCode}
+ * @return {?}
+ */
+function isDOMParserAvailable() {
+    try {
+        return !!(/** @type {?} */ (window)).DOMParser;
+    }
+    catch (/** @type {?} */ e) {
+        return false;
+    }
+}
+
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes} checked by tsc
+ */
+/**
+ * @license
+ * Copyright Google Inc. All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
+ */
+/**
  * A pattern that recognizes a commonly useful subset of URLs that are safe.
  *
  * This regular expression matches a subset of URLs that will not cause script
@@ -20925,38 +21064,6 @@ function sanitizeSrcset(srcset) {
  * Use of this source code is governed by an MIT-style license that can be
  * found in the LICENSE file at https://angular.io/license
  */
-/**
- * A <body> element that can be safely used to parse untrusted HTML. Lazily initialized below.
- */
-let inertElement = null;
-/**
- * Lazily initialized to make sure the DOM adapter gets set before use.
- */
-let DOM = /** @type {?} */ ((null));
-/**
- * Returns an HTML element that is guaranteed to not execute code when creating elements in it.
- * @return {?}
- */
-function getInertElement() {
-    if (inertElement)
-        return inertElement;
-    DOM = getDOM();
-    // Prefer using <template> element if supported.
-    const /** @type {?} */ templateEl = DOM.createElement('template');
-    if ('content' in templateEl)
-        return templateEl;
-    const /** @type {?} */ doc = DOM.createHtmlDocument();
-    inertElement = DOM.querySelector(doc, 'body');
-    if (inertElement == null) {
-        // usually there should be only one body element in the document, but IE doesn't have any, so we
-        // need to create one.
-        const /** @type {?} */ html = DOM.createElement('html', doc);
-        inertElement = DOM.createElement('body', doc);
-        DOM.appendChild(html, inertElement);
-        DOM.appendChild(doc, html);
-    }
-    return inertElement;
-}
 /**
  * @param {?} tags
  * @return {?}
@@ -21025,6 +21132,7 @@ class SanitizingHtmlSerializer {
     constructor() {
         this.sanitizedSomething = false;
         this.buf = [];
+        this.DOM = getDOM();
     }
     /**
      * @param {?} el
@@ -21034,33 +21142,33 @@ class SanitizingHtmlSerializer {
         // This cannot use a TreeWalker, as it has to run on Angular's various DOM adapters.
         // However this code never accesses properties off of `document` before deleting its contents
         // again, so it shouldn't be vulnerable to DOM clobbering.
-        let /** @type {?} */ current = /** @type {?} */ ((el.firstChild));
+        let /** @type {?} */ current = /** @type {?} */ ((this.DOM.firstChild(el)));
         while (current) {
-            if (DOM.isElementNode(current)) {
+            if (this.DOM.isElementNode(current)) {
                 this.startElement(/** @type {?} */ (current));
             }
-            else if (DOM.isTextNode(current)) {
-                this.chars(/** @type {?} */ ((DOM.nodeValue(current))));
+            else if (this.DOM.isTextNode(current)) {
+                this.chars(/** @type {?} */ ((this.DOM.nodeValue(current))));
             }
             else {
                 // Strip non-element, non-text nodes.
                 this.sanitizedSomething = true;
             }
-            if (DOM.firstChild(current)) {
-                current = /** @type {?} */ ((DOM.firstChild(current)));
+            if (this.DOM.firstChild(current)) {
+                current = /** @type {?} */ ((this.DOM.firstChild(current)));
                 continue;
             }
             while (current) {
                 // Leaving the element. Walk up and to the right, closing tags as we go.
-                if (DOM.isElementNode(current)) {
+                if (this.DOM.isElementNode(current)) {
                     this.endElement(/** @type {?} */ (current));
                 }
-                let /** @type {?} */ next = checkClobberedElement(current, /** @type {?} */ ((DOM.nextSibling(current))));
+                let /** @type {?} */ next = this.checkClobberedElement(current, /** @type {?} */ ((this.DOM.nextSibling(current))));
                 if (next) {
                     current = next;
                     break;
                 }
-                current = checkClobberedElement(current, /** @type {?} */ ((DOM.parentElement(current))));
+                current = this.checkClobberedElement(current, /** @type {?} */ ((this.DOM.parentElement(current))));
             }
         }
         return this.buf.join('');
@@ -21070,14 +21178,14 @@ class SanitizingHtmlSerializer {
      * @return {?}
      */
     startElement(element) {
-        const /** @type {?} */ tagName = DOM.nodeName(element).toLowerCase();
+        const /** @type {?} */ tagName = this.DOM.nodeName(element).toLowerCase();
         if (!VALID_ELEMENTS.hasOwnProperty(tagName)) {
             this.sanitizedSomething = true;
             return;
         }
         this.buf.push('<');
         this.buf.push(tagName);
-        DOM.attributeMap(element).forEach((value, attrName) => {
+        this.DOM.attributeMap(element).forEach((value, attrName) => {
             const /** @type {?} */ lower = attrName.toLowerCase();
             if (!VALID_ATTRS.hasOwnProperty(lower)) {
                 this.sanitizedSomething = true;
@@ -21101,7 +21209,7 @@ class SanitizingHtmlSerializer {
      * @return {?}
      */
     endElement(current) {
-        const /** @type {?} */ tagName = DOM.nodeName(current).toLowerCase();
+        const /** @type {?} */ tagName = this.DOM.nodeName(current).toLowerCase();
         if (VALID_ELEMENTS.hasOwnProperty(tagName) && !VOID_ELEMENTS.hasOwnProperty(tagName)) {
             this.buf.push('</');
             this.buf.push(tagName);
@@ -21113,17 +21221,17 @@ class SanitizingHtmlSerializer {
      * @return {?}
      */
     chars(chars) { this.buf.push(encodeEntities(chars)); }
-}
-/**
- * @param {?} node
- * @param {?} nextNode
- * @return {?}
- */
-function checkClobberedElement(node, nextNode) {
-    if (nextNode && DOM.contains(node, nextNode)) {
-        throw new Error(`Failed to sanitize html because the element is clobbered: ${DOM.getOuterHTML(node)}`);
+    /**
+     * @param {?} node
+     * @param {?} nextNode
+     * @return {?}
+     */
+    checkClobberedElement(node, nextNode) {
+        if (nextNode && this.DOM.contains(node, nextNode)) {
+            throw new Error(`Failed to sanitize html because the element is clobbered: ${this.DOM.getOuterHTML(node)}`);
+        }
+        return nextNode;
     }
-    return nextNode;
 }
 // Regular Expressions for parsing tags and attributes
 const SURROGATE_PAIR_REGEXP = /[\uD800-\uDBFF][\uDC00-\uDFFF]/g;
@@ -21147,26 +21255,7 @@ function encodeEntities(value) {
         .replace(/</g, '&lt;')
         .replace(/>/g, '&gt;');
 }
-/**
- * When IE9-11 comes across an unknown namespaced attribute e.g. 'xlink:foo' it adds 'xmlns:ns1'
- * attribute to declare ns1 namespace and prefixes the attribute with 'ns1' (e.g. 'ns1:xlink:foo').
- *
- * This is undesirable since we don't want to allow any of these custom attributes. This method
- * strips them all.
- * @param {?} el
- * @return {?}
- */
-function stripCustomNsAttrs(el) {
-    DOM.attributeMap(el).forEach((_, attrName) => {
-        if (attrName === 'xmlns:ns1' || attrName.indexOf('ns1:') === 0) {
-            DOM.removeAttribute(el, attrName);
-        }
-    });
-    for (const /** @type {?} */ n of DOM.childNodesAsList(el)) {
-        if (DOM.isElementNode(n))
-            stripCustomNsAttrs(/** @type {?} */ (n));
-    }
-}
+let inertBodyHelper;
 /**
  * Sanitizes the given unsafe, untrusted HTML fragment, and returns HTML text that is safe to add to
  * the DOM in a browser environment.
@@ -21175,10 +21264,13 @@ function stripCustomNsAttrs(el) {
  * @return {?}
  */
 function sanitizeHtml(defaultDoc, unsafeHtmlInput) {
+    const /** @type {?} */ DOM = getDOM();
+    let /** @type {?} */ inertBodyElement = null;
     try {
-        const /** @type {?} */ containerEl = getInertElement();
+        inertBodyHelper = inertBodyHelper || new InertBodyHelper(defaultDoc, DOM);
         // Make sure unsafeHtml is actually a string (TypeScript types are not enforced at runtime).
         let /** @type {?} */ unsafeHtml = unsafeHtmlInput ? String(unsafeHtmlInput) : '';
+        inertBodyElement = inertBodyHelper.getInertBodyElement(unsafeHtml);
         // mXSS protection. Repeatedly parse the document to make sure it stabilizes, so that a browser
         // trying to auto-correct incorrect HTML cannot cause formerly inert HTML to become dangerous.
         let /** @type {?} */ mXSSAttempts = 5;
@@ -21189,29 +21281,24 @@ function sanitizeHtml(defaultDoc, unsafeHtmlInput) {
             }
             mXSSAttempts--;
             unsafeHtml = parsedHtml;
-            DOM.setInnerHTML(containerEl, unsafeHtml);
-            if (defaultDoc.documentMode) {
-                // strip custom-namespaced attributes on IE<=11
-                stripCustomNsAttrs(containerEl);
-            }
-            parsedHtml = DOM.getInnerHTML(containerEl);
+            parsedHtml = DOM.getInnerHTML(inertBodyElement);
+            inertBodyElement = inertBodyHelper.getInertBodyElement(unsafeHtml);
         } while (unsafeHtml !== parsedHtml);
         const /** @type {?} */ sanitizer = new SanitizingHtmlSerializer();
-        const /** @type {?} */ safeHtml = sanitizer.sanitizeChildren(DOM.getTemplateContent(containerEl) || containerEl);
-        // Clear out the body element.
-        const /** @type {?} */ parent = DOM.getTemplateContent(containerEl) || containerEl;
-        for (const /** @type {?} */ child of DOM.childNodesAsList(parent)) {
-            DOM.removeChild(parent, child);
-        }
+        const /** @type {?} */ safeHtml = sanitizer.sanitizeChildren(DOM.getTemplateContent(inertBodyElement) || inertBodyElement);
         if (Object(__WEBPACK_IMPORTED_MODULE_1__angular_core__["T" /* isDevMode */])() && sanitizer.sanitizedSomething) {
             DOM.log('WARNING: sanitizing HTML stripped some content (see http://g.co/ng/security#xss).');
         }
         return safeHtml;
     }
-    catch (/** @type {?} */ e) {
+    finally {
         // In case anything goes wrong, clear out inertElement to reset the entire DOM structure.
-        inertElement = null;
-        throw e;
+        if (inertBodyElement) {
+            const /** @type {?} */ parent = DOM.getTemplateContent(inertBodyElement) || inertBodyElement;
+            for (const /** @type {?} */ child of DOM.childNodesAsList(parent)) {
+                DOM.removeChild(parent, child);
+            }
+        }
     }
 }
 
@@ -21561,9 +21648,9 @@ class SafeResourceUrlImpl extends SafeValueImpl {
  * found in the LICENSE file at https://angular.io/license
  */
 const INTERNAL_BROWSER_PLATFORM_PROVIDERS = [
-    { provide: __WEBPACK_IMPORTED_MODULE_1__angular_core__["B" /* PLATFORM_ID */], useValue: __WEBPACK_IMPORTED_MODULE_0__angular_common__["h" /* ɵPLATFORM_BROWSER_ID */] },
+    { provide: __WEBPACK_IMPORTED_MODULE_1__angular_core__["B" /* PLATFORM_ID */], useValue: __WEBPACK_IMPORTED_MODULE_0__angular_common__["f" /* ɵPLATFORM_BROWSER_ID */] },
     { provide: __WEBPACK_IMPORTED_MODULE_1__angular_core__["C" /* PLATFORM_INITIALIZER */], useValue: initDomAdapter, multi: true },
-    { provide: __WEBPACK_IMPORTED_MODULE_0__angular_common__["g" /* PlatformLocation */], useClass: BrowserPlatformLocation, deps: [DOCUMENT$1] },
+    { provide: __WEBPACK_IMPORTED_MODULE_0__angular_common__["e" /* PlatformLocation */], useClass: BrowserPlatformLocation, deps: [DOCUMENT$1] },
     { provide: DOCUMENT$1, useFactory: _document, deps: [] },
 ];
 /**
@@ -21886,7 +21973,9 @@ class TransferState {
      * @param {?} defaultValue
      * @return {?}
      */
-    get(key, defaultValue) { return /** @type {?} */ (this.store[key]) || defaultValue; }
+    get(key, defaultValue) {
+        return this.store[key] !== undefined ? /** @type {?} */ (this.store[key]) : defaultValue;
+    }
     /**
      * Set the value corresponding to a key.
      * @template T
@@ -22061,7 +22150,7 @@ class By {
 /**
  * \@stable
  */
-const VERSION = new __WEBPACK_IMPORTED_MODULE_1__angular_core__["N" /* Version */]('5.2.3');
+const VERSION = new __WEBPACK_IMPORTED_MODULE_1__angular_core__["N" /* Version */]('5.2.6');
 
 /**
  * @fileoverview added by tsickle
@@ -22107,13 +22196,203 @@ const VERSION = new __WEBPACK_IMPORTED_MODULE_1__angular_core__["N" /* Version *
 
 
 /***/ }),
+/* 7 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+var root_1 = __webpack_require__(3);
+var Symbol = root_1.root.Symbol;
+exports.rxSubscriber = (typeof Symbol === 'function' && typeof Symbol.for === 'function') ?
+    Symbol.for('rxSubscriber') : '@@rxSubscriber';
+/**
+ * @deprecated use rxSubscriber instead
+ */
+exports.$$rxSubscriber = exports.rxSubscriber;
+//# sourceMappingURL=rxSubscriber.js.map
+
+/***/ }),
 /* 8 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+var __extends = (this && this.__extends) || function (d, b) {
+    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
+    function __() { this.constructor = d; }
+    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+};
+var Observable_1 = __webpack_require__(0);
+var Subscriber_1 = __webpack_require__(2);
+var Subscription_1 = __webpack_require__(4);
+var ObjectUnsubscribedError_1 = __webpack_require__(45);
+var SubjectSubscription_1 = __webpack_require__(46);
+var rxSubscriber_1 = __webpack_require__(7);
+/**
+ * @class SubjectSubscriber<T>
+ */
+var SubjectSubscriber = (function (_super) {
+    __extends(SubjectSubscriber, _super);
+    function SubjectSubscriber(destination) {
+        _super.call(this, destination);
+        this.destination = destination;
+    }
+    return SubjectSubscriber;
+}(Subscriber_1.Subscriber));
+exports.SubjectSubscriber = SubjectSubscriber;
+/**
+ * @class Subject<T>
+ */
+var Subject = (function (_super) {
+    __extends(Subject, _super);
+    function Subject() {
+        _super.call(this);
+        this.observers = [];
+        this.closed = false;
+        this.isStopped = false;
+        this.hasError = false;
+        this.thrownError = null;
+    }
+    Subject.prototype[rxSubscriber_1.rxSubscriber] = function () {
+        return new SubjectSubscriber(this);
+    };
+    Subject.prototype.lift = function (operator) {
+        var subject = new AnonymousSubject(this, this);
+        subject.operator = operator;
+        return subject;
+    };
+    Subject.prototype.next = function (value) {
+        if (this.closed) {
+            throw new ObjectUnsubscribedError_1.ObjectUnsubscribedError();
+        }
+        if (!this.isStopped) {
+            var observers = this.observers;
+            var len = observers.length;
+            var copy = observers.slice();
+            for (var i = 0; i < len; i++) {
+                copy[i].next(value);
+            }
+        }
+    };
+    Subject.prototype.error = function (err) {
+        if (this.closed) {
+            throw new ObjectUnsubscribedError_1.ObjectUnsubscribedError();
+        }
+        this.hasError = true;
+        this.thrownError = err;
+        this.isStopped = true;
+        var observers = this.observers;
+        var len = observers.length;
+        var copy = observers.slice();
+        for (var i = 0; i < len; i++) {
+            copy[i].error(err);
+        }
+        this.observers.length = 0;
+    };
+    Subject.prototype.complete = function () {
+        if (this.closed) {
+            throw new ObjectUnsubscribedError_1.ObjectUnsubscribedError();
+        }
+        this.isStopped = true;
+        var observers = this.observers;
+        var len = observers.length;
+        var copy = observers.slice();
+        for (var i = 0; i < len; i++) {
+            copy[i].complete();
+        }
+        this.observers.length = 0;
+    };
+    Subject.prototype.unsubscribe = function () {
+        this.isStopped = true;
+        this.closed = true;
+        this.observers = null;
+    };
+    Subject.prototype._trySubscribe = function (subscriber) {
+        if (this.closed) {
+            throw new ObjectUnsubscribedError_1.ObjectUnsubscribedError();
+        }
+        else {
+            return _super.prototype._trySubscribe.call(this, subscriber);
+        }
+    };
+    Subject.prototype._subscribe = function (subscriber) {
+        if (this.closed) {
+            throw new ObjectUnsubscribedError_1.ObjectUnsubscribedError();
+        }
+        else if (this.hasError) {
+            subscriber.error(this.thrownError);
+            return Subscription_1.Subscription.EMPTY;
+        }
+        else if (this.isStopped) {
+            subscriber.complete();
+            return Subscription_1.Subscription.EMPTY;
+        }
+        else {
+            this.observers.push(subscriber);
+            return new SubjectSubscription_1.SubjectSubscription(this, subscriber);
+        }
+    };
+    Subject.prototype.asObservable = function () {
+        var observable = new Observable_1.Observable();
+        observable.source = this;
+        return observable;
+    };
+    Subject.create = function (destination, source) {
+        return new AnonymousSubject(destination, source);
+    };
+    return Subject;
+}(Observable_1.Observable));
+exports.Subject = Subject;
+/**
+ * @class AnonymousSubject<T>
+ */
+var AnonymousSubject = (function (_super) {
+    __extends(AnonymousSubject, _super);
+    function AnonymousSubject(destination, source) {
+        _super.call(this);
+        this.destination = destination;
+        this.source = source;
+    }
+    AnonymousSubject.prototype.next = function (value) {
+        var destination = this.destination;
+        if (destination && destination.next) {
+            destination.next(value);
+        }
+    };
+    AnonymousSubject.prototype.error = function (err) {
+        var destination = this.destination;
+        if (destination && destination.error) {
+            this.destination.error(err);
+        }
+    };
+    AnonymousSubject.prototype.complete = function () {
+        var destination = this.destination;
+        if (destination && destination.complete) {
+            this.destination.complete();
+        }
+    };
+    AnonymousSubject.prototype._subscribe = function (subscriber) {
+        var source = this.source;
+        if (source) {
+            return this.source.subscribe(subscriber);
+        }
+        else {
+            return Subscription_1.Subscription.EMPTY;
+        }
+    };
+    return AnonymousSubject;
+}(Subject));
+exports.AnonymousSubject = AnonymousSubject;
+//# sourceMappingURL=Subject.js.map
+
+/***/ }),
+/* 9 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* unused harmony export ɵregisterLocaleData */
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "e", function() { return NgLocaleLocalization; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "f", function() { return NgLocalization; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "c", function() { return NgLocaleLocalization; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "d", function() { return NgLocalization; });
 /* unused harmony export registerLocaleData */
 /* unused harmony export Plural */
 /* unused harmony export NumberFormatStyle */
@@ -22140,11 +22419,11 @@ const VERSION = new __WEBPACK_IMPORTED_MODULE_1__angular_core__["N" /* Version *
 /* unused harmony export getLocaleNumberFormat */
 /* unused harmony export getLocaleCurrencyName */
 /* unused harmony export getLocaleCurrencySymbol */
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "j", function() { return parseCookieValue; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "h", function() { return parseCookieValue; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return CommonModule; });
 /* unused harmony export DeprecatedI18NPipesModule */
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "c", function() { return NgClass; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "d", function() { return NgForOf; });
+/* unused harmony export NgClass */
+/* unused harmony export NgForOf */
 /* unused harmony export NgForOfContext */
 /* unused harmony export NgIf */
 /* unused harmony export NgIfContext */
@@ -22173,7 +22452,7 @@ const VERSION = new __WEBPACK_IMPORTED_MODULE_1__angular_core__["N" /* Version *
 /* unused harmony export DeprecatedCurrencyPipe */
 /* unused harmony export DeprecatedDecimalPipe */
 /* unused harmony export DeprecatedPercentPipe */
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "h", function() { return PLATFORM_BROWSER_ID; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "f", function() { return PLATFORM_BROWSER_ID; });
 /* unused harmony export ɵPLATFORM_SERVER_ID */
 /* unused harmony export ɵPLATFORM_WORKER_APP_ID */
 /* unused harmony export ɵPLATFORM_WORKER_UI_ID */
@@ -22182,7 +22461,7 @@ const VERSION = new __WEBPACK_IMPORTED_MODULE_1__angular_core__["N" /* Version *
 /* unused harmony export isPlatformWorkerApp */
 /* unused harmony export isPlatformWorkerUi */
 /* unused harmony export VERSION */
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "g", function() { return PlatformLocation; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "e", function() { return PlatformLocation; });
 /* unused harmony export LOCATION_INITIALIZED */
 /* unused harmony export LocationStrategy */
 /* unused harmony export APP_BASE_HREF */
@@ -22191,13 +22470,13 @@ const VERSION = new __WEBPACK_IMPORTED_MODULE_1__angular_core__["N" /* Version *
 /* unused harmony export Location */
 /* unused harmony export ɵe */
 /* unused harmony export ɵd */
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "i", function() { return DEPRECATED_PLURAL_FN; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "g", function() { return DEPRECATED_PLURAL_FN; });
 /* unused harmony export ɵb */
 /* unused harmony export ɵg */
 /* unused harmony export ɵf */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(1);
 /**
- * @license Angular v5.2.3
+ * @license Angular v5.2.6
  * (c) 2010-2018 Google, Inc. https://angular.io/
  * License: MIT
  */
@@ -24097,7 +24376,7 @@ class NgClass {
         this._keyValueDiffer = null;
         this._rawClass = typeof v === 'string' ? v.split(/\s+/) : v;
         if (this._rawClass) {
-            if (Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_6" /* ɵisListLikeIterable */])(this._rawClass)) {
+            if (Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_5" /* ɵisListLikeIterable */])(this._rawClass)) {
                 this._iterableDiffer = this._iterableDiffers.find(this._rawClass).create();
             }
             else {
@@ -24153,7 +24432,7 @@ class NgClass {
                 this._toggleClass(record.item, true);
             }
             else {
-                throw new Error(`NgClass can only toggle CSS classes expressed as strings, got ${Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_15" /* ɵstringify */])(record.item)}`);
+                throw new Error(`NgClass can only toggle CSS classes expressed as strings, got ${Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_14" /* ɵstringify */])(record.item)}`);
             }
         });
         changes.forEachRemovedItem((record) => this._toggleClass(record.item, false));
@@ -26101,7 +26380,7 @@ function convertTimezoneToLocal(date, timezone, reverse) {
  * @return {?}
  */
 function invalidPipeArgumentError(type, value) {
-    return Error(`InvalidPipeArgument: '${value}' for pipe '${Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_15" /* ɵstringify */])(type)}'`);
+    return Error(`InvalidPipeArgument: '${value}' for pipe '${Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_14" /* ɵstringify */])(type)}'`);
 }
 
 /**
@@ -27452,10 +27731,10 @@ class AsyncPipe {
      * @return {?}
      */
     _selectStrategy(obj) {
-        if (Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_8" /* ɵisPromise */])(obj)) {
+        if (Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_7" /* ɵisPromise */])(obj)) {
             return _promiseStrategy;
         }
-        if (Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_7" /* ɵisObservable */])(obj)) {
+        if (Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_6" /* ɵisObservable */])(obj)) {
             return _observableStrategy;
         }
         throw invalidPipeArgumentError(AsyncPipe, obj);
@@ -28183,7 +28462,7 @@ function isPlatformWorkerUi(platformId) {
 /**
  * \@stable
  */
-const VERSION = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["N" /* Version */]('5.2.3');
+const VERSION = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["N" /* Version */]('5.2.6');
 
 /**
  * @fileoverview added by tsickle
@@ -28234,197 +28513,7 @@ const VERSION = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["N" /* Version *
 
 
 /***/ }),
-/* 9 */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
-var root_1 = __webpack_require__(3);
-var Symbol = root_1.root.Symbol;
-exports.rxSubscriber = (typeof Symbol === 'function' && typeof Symbol.for === 'function') ?
-    Symbol.for('rxSubscriber') : '@@rxSubscriber';
-/**
- * @deprecated use rxSubscriber instead
- */
-exports.$$rxSubscriber = exports.rxSubscriber;
-//# sourceMappingURL=rxSubscriber.js.map
-
-/***/ }),
 /* 10 */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
-var __extends = (this && this.__extends) || function (d, b) {
-    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
-    function __() { this.constructor = d; }
-    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
-};
-var Observable_1 = __webpack_require__(0);
-var Subscriber_1 = __webpack_require__(2);
-var Subscription_1 = __webpack_require__(4);
-var ObjectUnsubscribedError_1 = __webpack_require__(45);
-var SubjectSubscription_1 = __webpack_require__(46);
-var rxSubscriber_1 = __webpack_require__(9);
-/**
- * @class SubjectSubscriber<T>
- */
-var SubjectSubscriber = (function (_super) {
-    __extends(SubjectSubscriber, _super);
-    function SubjectSubscriber(destination) {
-        _super.call(this, destination);
-        this.destination = destination;
-    }
-    return SubjectSubscriber;
-}(Subscriber_1.Subscriber));
-exports.SubjectSubscriber = SubjectSubscriber;
-/**
- * @class Subject<T>
- */
-var Subject = (function (_super) {
-    __extends(Subject, _super);
-    function Subject() {
-        _super.call(this);
-        this.observers = [];
-        this.closed = false;
-        this.isStopped = false;
-        this.hasError = false;
-        this.thrownError = null;
-    }
-    Subject.prototype[rxSubscriber_1.rxSubscriber] = function () {
-        return new SubjectSubscriber(this);
-    };
-    Subject.prototype.lift = function (operator) {
-        var subject = new AnonymousSubject(this, this);
-        subject.operator = operator;
-        return subject;
-    };
-    Subject.prototype.next = function (value) {
-        if (this.closed) {
-            throw new ObjectUnsubscribedError_1.ObjectUnsubscribedError();
-        }
-        if (!this.isStopped) {
-            var observers = this.observers;
-            var len = observers.length;
-            var copy = observers.slice();
-            for (var i = 0; i < len; i++) {
-                copy[i].next(value);
-            }
-        }
-    };
-    Subject.prototype.error = function (err) {
-        if (this.closed) {
-            throw new ObjectUnsubscribedError_1.ObjectUnsubscribedError();
-        }
-        this.hasError = true;
-        this.thrownError = err;
-        this.isStopped = true;
-        var observers = this.observers;
-        var len = observers.length;
-        var copy = observers.slice();
-        for (var i = 0; i < len; i++) {
-            copy[i].error(err);
-        }
-        this.observers.length = 0;
-    };
-    Subject.prototype.complete = function () {
-        if (this.closed) {
-            throw new ObjectUnsubscribedError_1.ObjectUnsubscribedError();
-        }
-        this.isStopped = true;
-        var observers = this.observers;
-        var len = observers.length;
-        var copy = observers.slice();
-        for (var i = 0; i < len; i++) {
-            copy[i].complete();
-        }
-        this.observers.length = 0;
-    };
-    Subject.prototype.unsubscribe = function () {
-        this.isStopped = true;
-        this.closed = true;
-        this.observers = null;
-    };
-    Subject.prototype._trySubscribe = function (subscriber) {
-        if (this.closed) {
-            throw new ObjectUnsubscribedError_1.ObjectUnsubscribedError();
-        }
-        else {
-            return _super.prototype._trySubscribe.call(this, subscriber);
-        }
-    };
-    Subject.prototype._subscribe = function (subscriber) {
-        if (this.closed) {
-            throw new ObjectUnsubscribedError_1.ObjectUnsubscribedError();
-        }
-        else if (this.hasError) {
-            subscriber.error(this.thrownError);
-            return Subscription_1.Subscription.EMPTY;
-        }
-        else if (this.isStopped) {
-            subscriber.complete();
-            return Subscription_1.Subscription.EMPTY;
-        }
-        else {
-            this.observers.push(subscriber);
-            return new SubjectSubscription_1.SubjectSubscription(this, subscriber);
-        }
-    };
-    Subject.prototype.asObservable = function () {
-        var observable = new Observable_1.Observable();
-        observable.source = this;
-        return observable;
-    };
-    Subject.create = function (destination, source) {
-        return new AnonymousSubject(destination, source);
-    };
-    return Subject;
-}(Observable_1.Observable));
-exports.Subject = Subject;
-/**
- * @class AnonymousSubject<T>
- */
-var AnonymousSubject = (function (_super) {
-    __extends(AnonymousSubject, _super);
-    function AnonymousSubject(destination, source) {
-        _super.call(this);
-        this.destination = destination;
-        this.source = source;
-    }
-    AnonymousSubject.prototype.next = function (value) {
-        var destination = this.destination;
-        if (destination && destination.next) {
-            destination.next(value);
-        }
-    };
-    AnonymousSubject.prototype.error = function (err) {
-        var destination = this.destination;
-        if (destination && destination.error) {
-            this.destination.error(err);
-        }
-    };
-    AnonymousSubject.prototype.complete = function () {
-        var destination = this.destination;
-        if (destination && destination.complete) {
-            this.destination.complete();
-        }
-    };
-    AnonymousSubject.prototype._subscribe = function (subscriber) {
-        var source = this.source;
-        if (source) {
-            return this.source.subscribe(subscriber);
-        }
-        else {
-            return Subscription_1.Subscription.EMPTY;
-        }
-    };
-    return AnonymousSubject;
-}(Subject));
-exports.AnonymousSubject = AnonymousSubject;
-//# sourceMappingURL=Subject.js.map
-
-/***/ }),
-/* 11 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -28436,7 +28525,7 @@ exports.isFunction = isFunction;
 //# sourceMappingURL=isFunction.js.map
 
 /***/ }),
-/* 12 */
+/* 11 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -28448,7 +28537,7 @@ exports.isObject = isObject;
 //# sourceMappingURL=isObject.js.map
 
 /***/ }),
-/* 13 */
+/* 12 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -28458,7 +28547,7 @@ exports.errorObject = { e: {} };
 //# sourceMappingURL=errorObject.js.map
 
 /***/ }),
-/* 14 */
+/* 13 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -28472,7 +28561,7 @@ exports.empty = {
 //# sourceMappingURL=Observer.js.map
 
 /***/ }),
-/* 15 */
+/* 14 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -28504,7 +28593,7 @@ exports.$$observable = exports.observable;
 //# sourceMappingURL=observable.js.map
 
 /***/ }),
-/* 16 */
+/* 15 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -28516,7 +28605,7 @@ exports.isScheduler = isScheduler;
 //# sourceMappingURL=isScheduler.js.map
 
 /***/ }),
-/* 17 */
+/* 16 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -28607,7 +28696,7 @@ var RefCountSubscriber = (function (_super) {
 //# sourceMappingURL=refCount.js.map
 
 /***/ }),
-/* 18 */
+/* 17 */
 /***/ (function(module, exports) {
 
 function webpackEmptyAsyncContext(req) {
@@ -28620,7 +28709,41 @@ function webpackEmptyAsyncContext(req) {
 webpackEmptyAsyncContext.keys = function() { return []; };
 webpackEmptyAsyncContext.resolve = webpackEmptyAsyncContext;
 module.exports = webpackEmptyAsyncContext;
-webpackEmptyAsyncContext.id = 18;
+webpackEmptyAsyncContext.id = 17;
+
+/***/ }),
+/* 18 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(1);
+
+class ButterComponent {
+    constructor() {
+        this.butterPassed = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* EventEmitter */]();
+        this.goingRight = true;
+        this.ml = 0;
+    }
+    passButter() {
+        console.log('pass the butter!');
+        const butter = this.butterRef.nativeElement;
+        if (butter) {
+            if (this.goingRight) {
+                this.ml += 20;
+            }
+            else {
+                this.ml -= 20;
+            }
+            if (this.ml >= 80 && this.goingRight || this.ml < 20 && !this.goingRight) {
+                this.goingRight = !this.goingRight;
+            }
+        }
+        this.butterPassed.emit();
+    }
+}
+/* harmony export (immutable) */ __webpack_exports__["a"] = ButterComponent;
+
+//# sourceMappingURL=butter.component.js.map
 
 /***/ }),
 /* 19 */
@@ -28631,17 +28754,15 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_zone_js_dist_zone__ = __webpack_require__(20);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_zone_js_dist_zone___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_zone_js_dist_zone__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_elements__ = __webpack_require__(21);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__my_rating_component__ = __webpack_require__(5);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__custom_elements_module_ngfactory__ = __webpack_require__(47);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__ = __webpack_require__(7);
-
-// the new elements module
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__butter_component__ = __webpack_require__(18);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__butter_module_ngfactory__ = __webpack_require__(47);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__ = __webpack_require__(6);
 
 
 
 
-//
-Object(__WEBPACK_IMPORTED_MODULE_1__angular_elements__["a" /* registerAsCustomElements */])([__WEBPACK_IMPORTED_MODULE_2__my_rating_component__["a" /* MyRatingComponent */]], () => __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["j" /* platformBrowser */]().bootstrapModuleFactory(__WEBPACK_IMPORTED_MODULE_3__custom_elements_module_ngfactory__["a" /* CustomElementsModuleNgFactory */]));
+
+Object(__WEBPACK_IMPORTED_MODULE_1__angular_elements__["a" /* registerAsCustomElements */])([__WEBPACK_IMPORTED_MODULE_2__butter_component__["a" /* ButterComponent */]], () => __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["j" /* platformBrowser */]().bootstrapModuleFactory(__WEBPACK_IMPORTED_MODULE_3__butter_module_ngfactory__["a" /* ButterModuleNgFactory */]));
 
 
 /***/ }),
@@ -31675,7 +31796,7 @@ Zone.__load_patch('PromiseRejectionEvent', function (global, Zone) {
 
 })));
 
-/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(6)))
+/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(5)))
 
 /***/ }),
 /* 21 */
@@ -31684,7 +31805,7 @@ Zone.__load_patch('PromiseRejectionEvent', function (global, Zone) {
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return registerAsCustomElements; });
 /* unused harmony export VERSION */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_platform_browser__ = __webpack_require__(7);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_platform_browser__ = __webpack_require__(6);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_core__ = __webpack_require__(1);
 /**
  * @license Angular v5.1.0-beta.0-21bfaf2
@@ -32572,8 +32693,8 @@ const VERSION = new __WEBPACK_IMPORTED_MODULE_1__angular_core__["N" /* Version *
 "use strict";
 
 var Subscriber_1 = __webpack_require__(2);
-var rxSubscriber_1 = __webpack_require__(9);
-var Observer_1 = __webpack_require__(14);
+var rxSubscriber_1 = __webpack_require__(7);
+var Observer_1 = __webpack_require__(13);
 function toSubscriber(nextOrObserver, error, complete) {
     if (nextOrObserver) {
         if (nextOrObserver instanceof Subscriber_1.Subscriber) {
@@ -32606,7 +32727,7 @@ exports.isArray = Array.isArray || (function (x) { return x && typeof x.length =
 
 "use strict";
 
-var errorObject_1 = __webpack_require__(13);
+var errorObject_1 = __webpack_require__(12);
 var tryCatchTarget;
 function tryCatcher() {
     try {
@@ -32706,7 +32827,7 @@ exports.noop = noop;
 
 var Observable_1 = __webpack_require__(0);
 var ArrayObservable_1 = __webpack_require__(29);
-var isScheduler_1 = __webpack_require__(16);
+var isScheduler_1 = __webpack_require__(15);
 var mergeAll_1 = __webpack_require__(32);
 /* tslint:enable:max-line-length */
 /**
@@ -32808,7 +32929,7 @@ var __extends = (this && this.__extends) || function (d, b) {
 var Observable_1 = __webpack_require__(0);
 var ScalarObservable_1 = __webpack_require__(30);
 var EmptyObservable_1 = __webpack_require__(31);
-var isScheduler_1 = __webpack_require__(16);
+var isScheduler_1 = __webpack_require__(15);
 /**
  * We need this JSDoc comment for affecting ESDoc.
  * @extends {Ignored}
@@ -33320,11 +33441,11 @@ exports.MergeMapSubscriber = MergeMapSubscriber;
 var root_1 = __webpack_require__(3);
 var isArrayLike_1 = __webpack_require__(35);
 var isPromise_1 = __webpack_require__(36);
-var isObject_1 = __webpack_require__(12);
+var isObject_1 = __webpack_require__(11);
 var Observable_1 = __webpack_require__(0);
 var iterator_1 = __webpack_require__(37);
 var InnerSubscriber_1 = __webpack_require__(38);
-var observable_1 = __webpack_require__(15);
+var observable_1 = __webpack_require__(14);
 function subscribeToResult(outerSubscriber, result, outerValue, outerIndex) {
     var destination = new InnerSubscriber_1.InnerSubscriber(outerSubscriber, outerValue, outerIndex);
     if (destination.closed) {
@@ -33588,8 +33709,8 @@ exports.share = share;
 "use strict";
 
 var multicast_1 = __webpack_require__(43);
-var refCount_1 = __webpack_require__(17);
-var Subject_1 = __webpack_require__(10);
+var refCount_1 = __webpack_require__(16);
+var Subject_1 = __webpack_require__(8);
 function shareSubjectFactory() {
     return new Subject_1.Subject();
 }
@@ -33688,11 +33809,11 @@ var __extends = (this && this.__extends) || function (d, b) {
     function __() { this.constructor = d; }
     d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
 };
-var Subject_1 = __webpack_require__(10);
+var Subject_1 = __webpack_require__(8);
 var Observable_1 = __webpack_require__(0);
 var Subscriber_1 = __webpack_require__(2);
 var Subscription_1 = __webpack_require__(4);
-var refCount_1 = __webpack_require__(17);
+var refCount_1 = __webpack_require__(16);
 /**
  * @class ConnectableObservable<T>
  */
@@ -33937,13 +34058,12 @@ exports.SubjectSubscription = SubjectSubscription;
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return CustomElementsModuleNgFactory; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return ButterModuleNgFactory; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(1);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__custom_elements_module__ = __webpack_require__(48);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__my_rating_component_ngfactory__ = __webpack_require__(49);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__angular_common__ = __webpack_require__(8);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__ = __webpack_require__(7);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__my_rating_component__ = __webpack_require__(5);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__butter_module__ = __webpack_require__(48);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__butter_component_ngfactory__ = __webpack_require__(49);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__angular_common__ = __webpack_require__(9);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__ = __webpack_require__(6);
 /**
  * @fileoverview This file was generated by the Angular template compiler. Do not edit.
  *
@@ -33955,41 +34075,33 @@ exports.SubjectSubscription = SubjectSubscription;
 
 
 
+var ButterModuleNgFactory = __WEBPACK_IMPORTED_MODULE_0__angular_core__["Z" /* ɵcmf */](__WEBPACK_IMPORTED_MODULE_1__butter_module__["a" /* ButterModule */], [], function (_l) { return __WEBPACK_IMPORTED_MODULE_0__angular_core__["_8" /* ɵmod */]([__WEBPACK_IMPORTED_MODULE_0__angular_core__["_9" /* ɵmpd */](512, __WEBPACK_IMPORTED_MODULE_0__angular_core__["i" /* ComponentFactoryResolver */], __WEBPACK_IMPORTED_MODULE_0__angular_core__["W" /* ɵCodegenComponentFactoryResolver */], [[8, [__WEBPACK_IMPORTED_MODULE_2__butter_component_ngfactory__["a" /* ButterComponentNgFactory */]]], [3, __WEBPACK_IMPORTED_MODULE_0__angular_core__["i" /* ComponentFactoryResolver */]], __WEBPACK_IMPORTED_MODULE_0__angular_core__["x" /* NgModuleRef */]]), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_9" /* ɵmpd */](5120, __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* LOCALE_ID */], __WEBPACK_IMPORTED_MODULE_0__angular_core__["_12" /* ɵq */], [[3, __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* LOCALE_ID */]]]), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_9" /* ɵmpd */](4608, __WEBPACK_IMPORTED_MODULE_3__angular_common__["d" /* NgLocalization */], __WEBPACK_IMPORTED_MODULE_3__angular_common__["c" /* NgLocaleLocalization */], [__WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* LOCALE_ID */], [2, __WEBPACK_IMPORTED_MODULE_3__angular_common__["g" /* ɵa */]]]), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_9" /* ɵmpd */](4608, __WEBPACK_IMPORTED_MODULE_0__angular_core__["h" /* Compiler */], __WEBPACK_IMPORTED_MODULE_0__angular_core__["h" /* Compiler */], []), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_9" /* ɵmpd */](5120, __WEBPACK_IMPORTED_MODULE_0__angular_core__["a" /* APP_ID */], __WEBPACK_IMPORTED_MODULE_0__angular_core__["_4" /* ɵi */], []), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_9" /* ɵmpd */](5120, __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* IterableDiffers */], __WEBPACK_IMPORTED_MODULE_0__angular_core__["_10" /* ɵn */], []), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_9" /* ɵmpd */](5120, __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* KeyValueDiffers */], __WEBPACK_IMPORTED_MODULE_0__angular_core__["_11" /* ɵo */], []), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_9" /* ɵmpd */](4608, __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["c" /* DomSanitizer */], __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["r" /* ɵe */], [__WEBPACK_IMPORTED_MODULE_3__angular_common__["b" /* DOCUMENT */]]), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_9" /* ɵmpd */](6144, __WEBPACK_IMPORTED_MODULE_0__angular_core__["H" /* Sanitizer */], null, [__WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["c" /* DomSanitizer */]]), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_9" /* ɵmpd */](4608, __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["f" /* HAMMER_GESTURE_CONFIG */], __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["g" /* HammerGestureConfig */], []), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_9" /* ɵmpd */](5120, __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["d" /* EVENT_MANAGER_PLUGINS */], function (p0_0, p0_1, p1_0, p2_0, p2_1) { return [new __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["k" /* ɵDomEventsPlugin */](p0_0, p0_1), new __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["o" /* ɵKeyEventsPlugin */](p1_0), new __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["n" /* ɵHammerGesturesPlugin */](p2_0, p2_1)]; }, [__WEBPACK_IMPORTED_MODULE_3__angular_common__["b" /* DOCUMENT */], __WEBPACK_IMPORTED_MODULE_0__angular_core__["z" /* NgZone */], __WEBPACK_IMPORTED_MODULE_3__angular_common__["b" /* DOCUMENT */], __WEBPACK_IMPORTED_MODULE_3__angular_common__["b" /* DOCUMENT */], __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["f" /* HAMMER_GESTURE_CONFIG */]]), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_9" /* ɵmpd */](4608, __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["e" /* EventManager */], __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["e" /* EventManager */], [__WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["d" /* EVENT_MANAGER_PLUGINS */], __WEBPACK_IMPORTED_MODULE_0__angular_core__["z" /* NgZone */]]), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_9" /* ɵmpd */](135680, __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["m" /* ɵDomSharedStylesHost */], __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["m" /* ɵDomSharedStylesHost */], [__WEBPACK_IMPORTED_MODULE_3__angular_common__["b" /* DOCUMENT */]]), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_9" /* ɵmpd */](4608, __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["l" /* ɵDomRendererFactory2 */], __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["l" /* ɵDomRendererFactory2 */], [__WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["e" /* EventManager */], __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["m" /* ɵDomSharedStylesHost */]]), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_9" /* ɵmpd */](6144, __WEBPACK_IMPORTED_MODULE_0__angular_core__["F" /* RendererFactory2 */], null, [__WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["l" /* ɵDomRendererFactory2 */]]), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_9" /* ɵmpd */](6144, __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["p" /* ɵSharedStylesHost */], null, [__WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["m" /* ɵDomSharedStylesHost */]]), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_9" /* ɵmpd */](4608, __WEBPACK_IMPORTED_MODULE_0__angular_core__["M" /* Testability */], __WEBPACK_IMPORTED_MODULE_0__angular_core__["M" /* Testability */], [__WEBPACK_IMPORTED_MODULE_0__angular_core__["z" /* NgZone */]]), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_9" /* ɵmpd */](4608, __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["h" /* Meta */], __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["h" /* Meta */], [__WEBPACK_IMPORTED_MODULE_3__angular_common__["b" /* DOCUMENT */]]), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_9" /* ɵmpd */](4608, __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["i" /* Title */], __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["i" /* Title */], [__WEBPACK_IMPORTED_MODULE_3__angular_common__["b" /* DOCUMENT */]]), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_9" /* ɵmpd */](512, __WEBPACK_IMPORTED_MODULE_3__angular_common__["a" /* CommonModule */], __WEBPACK_IMPORTED_MODULE_3__angular_common__["a" /* CommonModule */], []), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_9" /* ɵmpd */](1024, __WEBPACK_IMPORTED_MODULE_0__angular_core__["l" /* ErrorHandler */], __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["q" /* ɵa */], []), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_9" /* ɵmpd */](1024, __WEBPACK_IMPORTED_MODULE_0__angular_core__["b" /* APP_INITIALIZER */], function (p0_0) { return [__WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["s" /* ɵh */](p0_0)]; }, [[2, __WEBPACK_IMPORTED_MODULE_0__angular_core__["y" /* NgProbeToken */]]]), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_9" /* ɵmpd */](512, __WEBPACK_IMPORTED_MODULE_0__angular_core__["c" /* ApplicationInitStatus */], __WEBPACK_IMPORTED_MODULE_0__angular_core__["c" /* ApplicationInitStatus */], [[2, __WEBPACK_IMPORTED_MODULE_0__angular_core__["b" /* APP_INITIALIZER */]]]), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_9" /* ɵmpd */](131584, __WEBPACK_IMPORTED_MODULE_0__angular_core__["e" /* ApplicationRef */], __WEBPACK_IMPORTED_MODULE_0__angular_core__["e" /* ApplicationRef */], [__WEBPACK_IMPORTED_MODULE_0__angular_core__["z" /* NgZone */], __WEBPACK_IMPORTED_MODULE_0__angular_core__["X" /* ɵConsole */], __WEBPACK_IMPORTED_MODULE_0__angular_core__["r" /* Injector */], __WEBPACK_IMPORTED_MODULE_0__angular_core__["l" /* ErrorHandler */], __WEBPACK_IMPORTED_MODULE_0__angular_core__["i" /* ComponentFactoryResolver */], __WEBPACK_IMPORTED_MODULE_0__angular_core__["c" /* ApplicationInitStatus */]]), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_9" /* ɵmpd */](512, __WEBPACK_IMPORTED_MODULE_0__angular_core__["d" /* ApplicationModule */], __WEBPACK_IMPORTED_MODULE_0__angular_core__["d" /* ApplicationModule */], [__WEBPACK_IMPORTED_MODULE_0__angular_core__["e" /* ApplicationRef */]]), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_9" /* ɵmpd */](512, __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["a" /* BrowserModule */], __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["a" /* BrowserModule */], [[3, __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["a" /* BrowserModule */]]]), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_9" /* ɵmpd */](512, __WEBPACK_IMPORTED_MODULE_1__butter_module__["a" /* ButterModule */], __WEBPACK_IMPORTED_MODULE_1__butter_module__["a" /* ButterModule */], [])]); });
 
-var CustomElementsModuleNgFactory = __WEBPACK_IMPORTED_MODULE_0__angular_core__["_0" /* ɵcmf */](__WEBPACK_IMPORTED_MODULE_1__custom_elements_module__["a" /* CustomElementsModule */], [], function (_l) { return __WEBPACK_IMPORTED_MODULE_0__angular_core__["_9" /* ɵmod */]([__WEBPACK_IMPORTED_MODULE_0__angular_core__["_10" /* ɵmpd */](512, __WEBPACK_IMPORTED_MODULE_0__angular_core__["i" /* ComponentFactoryResolver */], __WEBPACK_IMPORTED_MODULE_0__angular_core__["W" /* ɵCodegenComponentFactoryResolver */], [[8, [__WEBPACK_IMPORTED_MODULE_2__my_rating_component_ngfactory__["a" /* MyRatingComponentNgFactory */]]], [3, __WEBPACK_IMPORTED_MODULE_0__angular_core__["i" /* ComponentFactoryResolver */]], __WEBPACK_IMPORTED_MODULE_0__angular_core__["x" /* NgModuleRef */]]), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_10" /* ɵmpd */](5120, __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* LOCALE_ID */], __WEBPACK_IMPORTED_MODULE_0__angular_core__["_14" /* ɵq */], [[3, __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* LOCALE_ID */]]]), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_10" /* ɵmpd */](4608, __WEBPACK_IMPORTED_MODULE_3__angular_common__["f" /* NgLocalization */], __WEBPACK_IMPORTED_MODULE_3__angular_common__["e" /* NgLocaleLocalization */], [__WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* LOCALE_ID */], [2, __WEBPACK_IMPORTED_MODULE_3__angular_common__["i" /* ɵa */]]]), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_10" /* ɵmpd */](4608, __WEBPACK_IMPORTED_MODULE_0__angular_core__["h" /* Compiler */], __WEBPACK_IMPORTED_MODULE_0__angular_core__["h" /* Compiler */], []), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_10" /* ɵmpd */](5120, __WEBPACK_IMPORTED_MODULE_0__angular_core__["a" /* APP_ID */], __WEBPACK_IMPORTED_MODULE_0__angular_core__["_5" /* ɵi */], []), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_10" /* ɵmpd */](5120, __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* IterableDiffers */], __WEBPACK_IMPORTED_MODULE_0__angular_core__["_11" /* ɵn */], []), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_10" /* ɵmpd */](5120, __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* KeyValueDiffers */], __WEBPACK_IMPORTED_MODULE_0__angular_core__["_12" /* ɵo */], []), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_10" /* ɵmpd */](4608, __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["c" /* DomSanitizer */], __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["r" /* ɵe */], [__WEBPACK_IMPORTED_MODULE_3__angular_common__["b" /* DOCUMENT */]]), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_10" /* ɵmpd */](6144, __WEBPACK_IMPORTED_MODULE_0__angular_core__["H" /* Sanitizer */], null, [__WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["c" /* DomSanitizer */]]), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_10" /* ɵmpd */](4608, __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["f" /* HAMMER_GESTURE_CONFIG */], __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["g" /* HammerGestureConfig */], []), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_10" /* ɵmpd */](5120, __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["d" /* EVENT_MANAGER_PLUGINS */], function (p0_0, p0_1, p1_0, p2_0, p2_1) { return [new __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["k" /* ɵDomEventsPlugin */](p0_0, p0_1), new __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["o" /* ɵKeyEventsPlugin */](p1_0), new __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["n" /* ɵHammerGesturesPlugin */](p2_0, p2_1)]; }, [__WEBPACK_IMPORTED_MODULE_3__angular_common__["b" /* DOCUMENT */], __WEBPACK_IMPORTED_MODULE_0__angular_core__["z" /* NgZone */], __WEBPACK_IMPORTED_MODULE_3__angular_common__["b" /* DOCUMENT */], __WEBPACK_IMPORTED_MODULE_3__angular_common__["b" /* DOCUMENT */], __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["f" /* HAMMER_GESTURE_CONFIG */]]), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_10" /* ɵmpd */](4608, __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["e" /* EventManager */], __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["e" /* EventManager */], [__WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["d" /* EVENT_MANAGER_PLUGINS */], __WEBPACK_IMPORTED_MODULE_0__angular_core__["z" /* NgZone */]]), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_10" /* ɵmpd */](135680, __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["m" /* ɵDomSharedStylesHost */], __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["m" /* ɵDomSharedStylesHost */], [__WEBPACK_IMPORTED_MODULE_3__angular_common__["b" /* DOCUMENT */]]), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_10" /* ɵmpd */](4608, __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["l" /* ɵDomRendererFactory2 */], __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["l" /* ɵDomRendererFactory2 */], [__WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["e" /* EventManager */], __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["m" /* ɵDomSharedStylesHost */]]), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_10" /* ɵmpd */](6144, __WEBPACK_IMPORTED_MODULE_0__angular_core__["F" /* RendererFactory2 */], null, [__WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["l" /* ɵDomRendererFactory2 */]]), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_10" /* ɵmpd */](6144, __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["p" /* ɵSharedStylesHost */], null, [__WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["m" /* ɵDomSharedStylesHost */]]), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_10" /* ɵmpd */](4608, __WEBPACK_IMPORTED_MODULE_0__angular_core__["M" /* Testability */], __WEBPACK_IMPORTED_MODULE_0__angular_core__["M" /* Testability */], [__WEBPACK_IMPORTED_MODULE_0__angular_core__["z" /* NgZone */]]), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_10" /* ɵmpd */](4608, __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["h" /* Meta */], __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["h" /* Meta */], [__WEBPACK_IMPORTED_MODULE_3__angular_common__["b" /* DOCUMENT */]]), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_10" /* ɵmpd */](4608, __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["i" /* Title */], __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["i" /* Title */], [__WEBPACK_IMPORTED_MODULE_3__angular_common__["b" /* DOCUMENT */]]), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_10" /* ɵmpd */](4608, __WEBPACK_IMPORTED_MODULE_5__my_rating_component__["c" /* RatingService */], __WEBPACK_IMPORTED_MODULE_5__my_rating_component__["c" /* RatingService */], []), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_10" /* ɵmpd */](512, __WEBPACK_IMPORTED_MODULE_3__angular_common__["a" /* CommonModule */], __WEBPACK_IMPORTED_MODULE_3__angular_common__["a" /* CommonModule */], []), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_10" /* ɵmpd */](1024, __WEBPACK_IMPORTED_MODULE_0__angular_core__["l" /* ErrorHandler */], __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["q" /* ɵa */], []), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_10" /* ɵmpd */](1024, __WEBPACK_IMPORTED_MODULE_0__angular_core__["b" /* APP_INITIALIZER */], function (p0_0) { return [__WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["s" /* ɵh */](p0_0)]; }, [[2, __WEBPACK_IMPORTED_MODULE_0__angular_core__["y" /* NgProbeToken */]]]), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_10" /* ɵmpd */](512, __WEBPACK_IMPORTED_MODULE_0__angular_core__["c" /* ApplicationInitStatus */], __WEBPACK_IMPORTED_MODULE_0__angular_core__["c" /* ApplicationInitStatus */], [[2, __WEBPACK_IMPORTED_MODULE_0__angular_core__["b" /* APP_INITIALIZER */]]]), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_10" /* ɵmpd */](131584, __WEBPACK_IMPORTED_MODULE_0__angular_core__["e" /* ApplicationRef */], __WEBPACK_IMPORTED_MODULE_0__angular_core__["e" /* ApplicationRef */], [__WEBPACK_IMPORTED_MODULE_0__angular_core__["z" /* NgZone */], __WEBPACK_IMPORTED_MODULE_0__angular_core__["X" /* ɵConsole */], __WEBPACK_IMPORTED_MODULE_0__angular_core__["r" /* Injector */], __WEBPACK_IMPORTED_MODULE_0__angular_core__["l" /* ErrorHandler */], __WEBPACK_IMPORTED_MODULE_0__angular_core__["i" /* ComponentFactoryResolver */], __WEBPACK_IMPORTED_MODULE_0__angular_core__["c" /* ApplicationInitStatus */]]), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_10" /* ɵmpd */](512, __WEBPACK_IMPORTED_MODULE_0__angular_core__["d" /* ApplicationModule */], __WEBPACK_IMPORTED_MODULE_0__angular_core__["d" /* ApplicationModule */], [__WEBPACK_IMPORTED_MODULE_0__angular_core__["e" /* ApplicationRef */]]), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_10" /* ɵmpd */](512, __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["a" /* BrowserModule */], __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["a" /* BrowserModule */], [[3, __WEBPACK_IMPORTED_MODULE_4__angular_platform_browser__["a" /* BrowserModule */]]]), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_10" /* ɵmpd */](512, __WEBPACK_IMPORTED_MODULE_1__custom_elements_module__["a" /* CustomElementsModule */], __WEBPACK_IMPORTED_MODULE_1__custom_elements_module__["a" /* CustomElementsModule */], [])]); });
-
-//# sourceMappingURL=custom-elements.module.ngfactory.js.map
+//# sourceMappingURL=butter.module.ngfactory.js.map
 
 /***/ }),
 /* 48 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__my_rating_component__ = __webpack_require__(5);
-
-class CustomElementsModule {
+class ButterModule {
     ngDoBootstrap() { }
 }
-/* harmony export (immutable) */ __webpack_exports__["a"] = CustomElementsModule;
+/* harmony export (immutable) */ __webpack_exports__["a"] = ButterModule;
 
-//# sourceMappingURL=custom-elements.module.js.map
+//# sourceMappingURL=butter.module.js.map
 
 /***/ }),
 /* 49 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* unused harmony export RenderType_RatingComponent */
-/* unused harmony export View_RatingComponent_0 */
-/* unused harmony export View_RatingComponent_Host_0 */
-/* unused harmony export RatingComponentNgFactory */
-/* unused harmony export RenderType_MyRatingComponent */
-/* unused harmony export View_MyRatingComponent_0 */
-/* unused harmony export View_MyRatingComponent_Host_0 */
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return MyRatingComponentNgFactory; });
+/* unused harmony export RenderType_ButterComponent */
+/* unused harmony export View_ButterComponent_0 */
+/* unused harmony export View_ButterComponent_Host_0 */
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return ButterComponentNgFactory; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(1);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_common__ = __webpack_require__(8);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__my_rating_component__ = __webpack_require__(5);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__butter_component__ = __webpack_require__(18);
 /**
  * @fileoverview This file was generated by the Angular template compiler. Do not edit.
  *
@@ -33998,29 +34110,17 @@ class CustomElementsModule {
  */ 
 
 
+var styles_ButterComponent = ["\n  .butter-passer{\n    display: grid;\n  }\n  .command{\n      width: 50%;\n      margin: auto;\n      padding: .5rem;\n  }\n  .btn{\n    background: rgb(103,58,183);\n    color: rgb(255,255,255);\n    box-shadow: 0 2px 2px 0 rgba(0,0,0,.14), 0 3px 1px -2px rgba(0,0,0,.2), 0 1px 5px 0 rgba(0,0,0,.12);\n    border: none;\n    border-radius: 2px;\n    position: relative;\n    height: 36px;\n    margin: 0;\n    min-width: 64px;\n    padding: 0 16px;\n    display: inline-block;\n    font-family: \"Roboto\",\"Helvetica\",\"Arial\",sans-serif;\n    font-size: 14px;\n    font-weight: 500;\n    text-transform: uppercase;\n    letter-spacing: 0;\n    overflow: hidden;\n    will-change: box-shadow;\n    transition: box-shadow .2s cubic-bezier(.4,0,1,1),background-color .2s cubic-bezier(.4,0,.2,1),color .2s cubic-bezier(.4,0,.2,1);\n    outline: none;\n    cursor: pointer;\n    text-decoration: none;\n    text-align: center;\n    line-height: 36px;\n    vertical-align: middle;\n    align-items: flex-start;\n    margin: auto;\n  }\n  .butter {\n      width: 10rem;\n      height: auto;\n      transition: all 1s;\n  "];
+var RenderType_ButterComponent = __WEBPACK_IMPORTED_MODULE_0__angular_core__["_0" /* ɵcrt */]({ encapsulation: 1, styles: styles_ButterComponent, data: {} });
 
-var styles_RatingComponent = ["\n    .rating.filled {\n      background: firebrick;\n    }\n    .rating {\n      width: 20px;\n      height: 20px;\n      border-radius: 50%;\n      margin: 5px;\n      cursor: pointer;\n      user-select: none;\n      background: lightgray;\n    }\n  "];
-var RenderType_RatingComponent = __WEBPACK_IMPORTED_MODULE_0__angular_core__["_1" /* ɵcrt */]({ encapsulation: 1, styles: styles_RatingComponent, data: {} });
-
-function View_RatingComponent_0(_l) { return __WEBPACK_IMPORTED_MODULE_0__angular_core__["_17" /* ɵvid */](0, [(_l()(), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_16" /* ɵted */](-1, null, ["\n    "])), (_l()(), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_3" /* ɵeld */](1, 0, null, null, 3, "div", [["class", "rating"]], null, [[null, "click"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("click" === en)) {
-        var pd_0 = (_co.ratingClicked.emit() !== false);
+function View_ButterComponent_0(_l) { return __WEBPACK_IMPORTED_MODULE_0__angular_core__["_16" /* ɵvid */](0, [__WEBPACK_IMPORTED_MODULE_0__angular_core__["_13" /* ɵqud */](402653184, 1, { butterRef: 0 }), (_l()(), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_15" /* ɵted */](-1, null, ["\n  "])), (_l()(), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_2" /* ɵeld */](2, 0, null, null, 6, "div", [["class", "butter-passer"]], null, null, null, null, null)), (_l()(), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_15" /* ɵted */](-1, null, ["\n    "])), (_l()(), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_2" /* ɵeld */](4, 0, null, null, 1, "button", [["class", "command btn"]], null, [[null, "click"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("click" === en)) {
+        var pd_0 = (_co.passButter() !== false);
         ad = (pd_0 && ad);
-    } return ad; }, null, null)), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_2" /* ɵdid */](2, 278528, null, 0, __WEBPACK_IMPORTED_MODULE_1__angular_common__["c" /* NgClass */], [__WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* IterableDiffers */], __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* KeyValueDiffers */], __WEBPACK_IMPORTED_MODULE_0__angular_core__["k" /* ElementRef */], __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Renderer2 */]], { klass: [0, "klass"], ngClass: [1, "ngClass"] }, null), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_13" /* ɵpod */](3, { "filled": 0 }), (_l()(), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_16" /* ɵted */](-1, null, ["\n    "])), (_l()(), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_16" /* ɵted */](-1, null, ["\n  "]))], function (_ck, _v) { var _co = _v.component; var currVal_0 = "rating"; var currVal_1 = _ck(_v, 3, 0, _co.isFilled); _ck(_v, 2, 0, currVal_0, currVal_1); }, null); }
-function View_RatingComponent_Host_0(_l) { return __WEBPACK_IMPORTED_MODULE_0__angular_core__["_17" /* ɵvid */](0, [(_l()(), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_3" /* ɵeld */](0, 0, null, null, 1, "one-rating", [], null, null, null, View_RatingComponent_0, RenderType_RatingComponent)), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_2" /* ɵdid */](1, 49152, null, 0, __WEBPACK_IMPORTED_MODULE_2__my_rating_component__["b" /* RatingComponent */], [], null, null)], null, null); }
-var RatingComponentNgFactory = __WEBPACK_IMPORTED_MODULE_0__angular_core__["Z" /* ɵccf */]("one-rating", __WEBPACK_IMPORTED_MODULE_2__my_rating_component__["b" /* RatingComponent */], View_RatingComponent_Host_0, { isFilled: "isFilled" }, { ratingClicked: "ratingClicked" }, []);
+    } return ad; }, null, null)), (_l()(), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_15" /* ɵted */](5, null, ["", ""])), (_l()(), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_15" /* ɵted */](-1, null, ["\n    "])), (_l()(), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_2" /* ɵeld */](7, 0, [[1, 0], ["butter", 1]], null, 0, "img", [["class", "butter"], ["src", "https://i.imgur.com/ErKFbbo.png"]], [[4, "margin-left", null]], null, null, null, null)), (_l()(), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_15" /* ɵted */](-1, null, ["\n  "]))], null, function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.text; _ck(_v, 5, 0, currVal_0); var currVal_1 = (_co.ml + "%"); _ck(_v, 7, 0, currVal_1); }); }
+function View_ButterComponent_Host_0(_l) { return __WEBPACK_IMPORTED_MODULE_0__angular_core__["_16" /* ɵvid */](0, [(_l()(), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_2" /* ɵeld */](0, 0, null, null, 1, "butter-passer", [], null, null, null, View_ButterComponent_0, RenderType_ButterComponent)), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_1" /* ɵdid */](1, 49152, null, 0, __WEBPACK_IMPORTED_MODULE_1__butter_component__["a" /* ButterComponent */], [], null, null)], null, null); }
+var ButterComponentNgFactory = __WEBPACK_IMPORTED_MODULE_0__angular_core__["Y" /* ɵccf */]("butter-passer", __WEBPACK_IMPORTED_MODULE_1__butter_component__["a" /* ButterComponent */], View_ButterComponent_Host_0, { text: "text" }, { butterPassed: "butterPassed" }, []);
 
-var styles_MyRatingComponent = [".my-rating { display: flex; padding: 5px;}"];
-var RenderType_MyRatingComponent = __WEBPACK_IMPORTED_MODULE_0__angular_core__["_1" /* ɵcrt */]({ encapsulation: 1, styles: styles_MyRatingComponent, data: {} });
-
-function View_MyRatingComponent_1(_l) { return __WEBPACK_IMPORTED_MODULE_0__angular_core__["_17" /* ɵvid */](0, [(_l()(), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_3" /* ɵeld */](0, 0, null, null, 2, "one-rating", [], null, [[null, "ratingClicked"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("ratingClicked" === en)) {
-        var pd_0 = (_co.handleRatingClicked(_v.context.index) !== false);
-        ad = (pd_0 && ad);
-    } return ad; }, View_RatingComponent_0, RenderType_RatingComponent)), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_2" /* ɵdid */](1, 49152, null, 0, __WEBPACK_IMPORTED_MODULE_2__my_rating_component__["b" /* RatingComponent */], [], { isFilled: [0, "isFilled"] }, { ratingClicked: "ratingClicked" }), (_l()(), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_16" /* ɵted */](-1, null, ["\n      "]))], function (_ck, _v) { var currVal_0 = _v.context.$implicit; _ck(_v, 1, 0, currVal_0); }, null); }
-function View_MyRatingComponent_0(_l) { return __WEBPACK_IMPORTED_MODULE_0__angular_core__["_17" /* ɵvid */](0, [(_l()(), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_16" /* ɵted */](-1, null, ["\n    "])), (_l()(), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_3" /* ɵeld */](1, 0, null, null, 4, "div", [["class", "my-rating"]], null, null, null, null, null)), (_l()(), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_16" /* ɵted */](-1, null, ["\n      "])), (_l()(), __WEBPACK_IMPORTED_MODULE_0__angular_core__["Y" /* ɵand */](16777216, null, null, 1, null, View_MyRatingComponent_1)), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_2" /* ɵdid */](4, 802816, null, 0, __WEBPACK_IMPORTED_MODULE_1__angular_common__["d" /* NgForOf */], [__WEBPACK_IMPORTED_MODULE_0__angular_core__["O" /* ViewContainerRef */], __WEBPACK_IMPORTED_MODULE_0__angular_core__["L" /* TemplateRef */], __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* IterableDiffers */]], { ngForOf: [0, "ngForOf"] }, null), (_l()(), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_16" /* ɵted */](-1, null, ["\n    "])), (_l()(), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_16" /* ɵted */](-1, null, ["\n  "]))], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.ratingStates; _ck(_v, 4, 0, currVal_0); }, null); }
-function View_MyRatingComponent_Host_0(_l) { return __WEBPACK_IMPORTED_MODULE_0__angular_core__["_17" /* ɵvid */](0, [(_l()(), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_3" /* ɵeld */](0, 0, null, null, 1, "my-rating", [], null, null, null, View_MyRatingComponent_0, RenderType_MyRatingComponent)), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_2" /* ɵdid */](1, 573440, null, 0, __WEBPACK_IMPORTED_MODULE_2__my_rating_component__["a" /* MyRatingComponent */], [__WEBPACK_IMPORTED_MODULE_2__my_rating_component__["c" /* RatingService */]], null, null)], null, null); }
-var MyRatingComponentNgFactory = __WEBPACK_IMPORTED_MODULE_0__angular_core__["Z" /* ɵccf */]("my-rating", __WEBPACK_IMPORTED_MODULE_2__my_rating_component__["a" /* MyRatingComponent */], View_MyRatingComponent_Host_0, { rating: "rating" }, { ratingChange: "ratingChange" }, []);
-
-//# sourceMappingURL=my-rating.component.ngfactory.js.map
+//# sourceMappingURL=butter.component.ngfactory.js.map
 
 /***/ })
 /******/ ]);

@@ -12,7 +12,7 @@ import {
   template: `
   <div class="butter-passer">
     <button class="command btn" (click)="passButter()">{{text}}</button>
-    <img class="butter" #butter [style.margin-left]="ml + '%'" src="./images/butter-bot.png"/>
+    <img class="butter" #butter [style.margin-left]="ml + '%'" src="https://i.imgur.com/ErKFbbo.png"/>
   </div>`,
   styles: [`
   .butter-passer{
