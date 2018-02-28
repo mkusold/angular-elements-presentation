@@ -1,0 +1,70 @@
+<link rel="import" href="../polymer/polymer-element.html">
+
+<dom-module id="polymer-pass-butter">
+  <template>
+    <style>
+        template {
+            font-size: 14px;
+        }
+        .container{
+            display: grid;
+        }
+        .command{
+            width: 50%;
+            margin: auto;
+            padding: .5em;
+        }
+        .butter {
+            width: 10em;
+            height: auto;
+            transition: marginLeft 3s;
+        }
+    </style>
+    <div class="container">
+        <button class="command" marginLeft$="{{movement.amount}}" transition$="{{movement.transition}}" on-click="passButter">Pass the butter</button>
+        <img class="butter" id="butter" src="../butter-bot.png"/>
+      </div>
+  </template>
+
+  <script>
+    /**
+     * `polymer-pass-butter`
+     * What is my purpose?
+     * you pass the butter .
+     * .. oh my god
+     *
+     * @customElement
+     * @polymer
+     * @demo demo/index.html
+     */
+    class PolymerPassButter extends Polymer.Element {
+      static get is() { return 'polymer-pass-butter'; }
+      static get properties() {
+        return {
+          movement: {
+            amount: 20,
+            amountStyle: "20%",
+            goingRight: true,
+            transition: "all 1s"
+          }
+        };
+      }
+      constructor(){
+        super();
+      }
+      passButter() {
+        if(this.movement.goingRight) {
+            this.movement.amount += 20;
+        } else {
+            this.movement.amount -= 20;
+        }
+        if(this.movement.amount >= 80 && this.movement.goingRight || this.movement.amount < 20 && !this.movement.goingRight){
+            this.movement.goingRight = !this.movement.goingRight;
+        }
+        this.movement.amountStyle = this.movement.amount + '%' ;
+      }
+    }
+
+    window.customElements.define(PolymerPassButter.is, PolymerPassButter);
+  </script>
+</dom-module>

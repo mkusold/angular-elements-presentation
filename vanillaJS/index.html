@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>title</title>
+  </head>
+  <body>
+      <h1>Butter Bot Sample</h1>
+      <div class="container">
+        <button class="command" onclick="passButter()">Pass the butter</button>
+        <img class="butter" id="butter" src="butter-bot.png"/>
+      </div>
+    
+    <style>
+        h1 {
+            text-align: center;
+        }
+        body {
+            font-size: 14px;
+        }
+        .container{
+            display: grid;
+        }
+        .command{
+            width: 50%;
+            margin: auto;
+            padding: .5rem;
+        }
+        .butter {
+            width: 10rem;
+            height: auto;
+            transition: marginLeft 3s;
+        }
+    </style>
+    <script>
+        var ml = 0;
+        var goingRight = true;
+        function passButter() {
+            butter = document.getElementById("butter");
+            if(butter) {
+                if(goingRight){
+                    ml += 20;
+                } else {
+                    ml -= 20;
+                }
+                if(ml >= 80 && goingRight || ml < 20 && !goingRight){
+                    goingRight = !goingRight;
+                }
+                butter.style.transition = 'all 1s';
+                butter.style.marginLeft = ml + '%' ;
+            }
+        }
+    </script>
+  </body>
+</html>
