@@ -12,3 +12,15 @@
     height: auto;
     transition: marginLeft 3s;
 }
+.polymer {
+    background-color:pink;
+}
+.vanilla {
+    background-color: beige;
+}
+.vue {
+    background-color:#9bd7b4;
+}
+.butter-component {
+    background-color: white;
+}
